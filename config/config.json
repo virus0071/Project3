@@ -4,8 +4,7 @@
       "password": "7119316b",
       "database": "heroku_7b1914202d5b895",
       "host": "us-cdbr-iron-east-01.cleardb.net",
-      "port": "",
-      "dialect": "mysql"
+      
     },
     "test": {
       "username": "root",
