@@ -1,0 +1,26 @@
+{
+    "development": {
+      "user": "b02bc8980bfbea",
+      "password": "7119316b",
+      "database": "heroku_7b1914202d5b895",
+      "host": "us-cdbr-iron-east-01.cleardb.net",
+     
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": null,
+      "database": "database_test",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": null,
+      "database": "database_production",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "dialect": "mysql"
+    }
+  }
